@@ -198,6 +198,11 @@ section {
   font-size: 3rem;
   text-align: center;
 }
+.video{
+  justify-content: center;
+  display: flex;
+
+}
 
 #socials-container {
   display: flex;
